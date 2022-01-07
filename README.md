@@ -14,15 +14,11 @@
   ## 阶段二任务  文件上传 
  *[2.hello.md文档](https://github.com/Rainywhisper/Tasks/blob/d28d74f447558fa3eaccd145b8defdb823b51229/hello.md)*
 + #### 任务目标：
-
 1. 了解git基本操作,学会使用Git Bash将本地项目推送到远程github仓库
 2. 将本地仓库中的hello.md文件推送至远程仓库Tasks
-
-### 
   
 ## 阶段三任务 部分领域初次接触
 + #### 任务目标：
-1.HTML/CSS/JavaScript学习  
-  2. 动手实践写一个简单的页面，自己来决定写什么demo，代码上传到Tasks仓库中  
-  3. 通过github pages把这个demo挂载上去
-  ###
+1. HTML/CSS/JavaScript学习  
+2. 动手实践写一个简单的页面，自己来决定写什么demo，代码上传到Tasks仓库中  
+3. 通过github pages把这个demo挂载上去
