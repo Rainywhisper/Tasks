@@ -12,7 +12,7 @@
 4. 创建个人文件夹并用Markdown记录之后所有的学习内容
   
   ## 阶段二任务  文件上传 
- *[2.hello.md文档](https://github.com/Rainywhisper/Tasks/blob/d28d74f447558fa3eaccd145b8defdb823b51229/hello.md)*
+ *[2.hello.md文档](https://github.com/Rainywhisper/Tasks/blob/8344c8f1188f1277ae2bec3cf9a4ffe54e9360c3/hello.md)*
 + #### 任务目标：
 1. 了解git基本操作,学会使用Git Bash将本地项目推送到远程github仓库
 2. 将本地仓库中的hello.md文件推送至远程仓库Tasks
