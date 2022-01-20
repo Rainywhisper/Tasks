@@ -19,6 +19,6 @@
   
 ## 阶段三任务 部分领域初次接触
 + #### 任务目标：
-1. [HTML学习](https://github.com/Rainywhisper/Tasks/blob/30a7d709f394eee82e020dcda7a5024007501bdd/HTML%E5%AD%A6%E4%B9%A0.md)/CSS/JavaScript学习  
+1. *[HTML学习](https://github.com/Rainywhisper/Tasks/blob/30a7d709f394eee82e020dcda7a5024007501bdd/HTML%E5%AD%A6%E4%B9%A0.md)*/CSS/JavaScript学习  
 2. 动手实践写一个简单的页面，自己来决定写什么demo，代码上传到Tasks仓库中  
 3. 通过github pages把这个demo挂载上去，即通过你的github名称.github.io可以在浏览器中访问
